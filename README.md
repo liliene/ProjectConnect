@@ -35,22 +35,21 @@ O projeto foi criado para **demonstrar, de ponta a ponta**, como seria a execuç
 ---
 
 ## 📂 Estrutura do Repositório
-ProjectConnect/
-│── README.md
-│── guia_de_treinamento.md
-│── ajustes_e_solucao_de_problemas.md
-│
-├── docs/
-│   ├── 01_escopo_e_cronograma.md
-│   ├── 02_alinhamento_com_o_cliente.md
-│
-├── scripts/
-│   ├── instalar_asterisk.sh
-│   ├── configurar_servidor.sh
-│
-├── src/
-│   ├── sip.conf
-│   ├── extensions.conf
-│
-└── diagramas/
-    └── arquitetura.png 
+ProjectConnect/<br/>
+│── README.md<br/>
+│── guia_de_treinamento.md<br/>
+│── ajustes_e_solucao_de_problemas.md<br/>
+│<br/>
+├── docs/<br/>
+│   ├── 01_escopo_e_cronograma.md<br/>
+│   ├── 02_alinhamento_com_o_cliente.md<br/>
+│<br/>
+├── scripts/<br/>
+│   ├── instalar_asterisk.sh<br/>
+│   ├── configurar_servidor.sh<br/>
+│<br/>
+├── src/<br/>
+│   ├── sip.conf<br/>
+│   ├── extensions.conf<br/>
+│<br/>
+└── diagramas/ ├──arquitetura.png
