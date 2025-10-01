@@ -1,7 +1,7 @@
 # 📞 Project Connect: Simulador de Implantação de Plataforma de Comunicação
 
 <p align="center">
-  <img src="diagramas/arquitetura.png" alt="Arquitetura do Projeto" width="600"/>
+  <img src="diagramas/#" alt="Arquitetura do Projeto" width="600"/>
 </p>
 
 ---
